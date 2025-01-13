@@ -5,7 +5,7 @@
 ```bash
 winget install --id Python.Python.3.10
 ```
-#### 2. FFMPEG with Chocolatey
+#### 2. Install FFMPEG with Chocolatey
 
 ```bash
 choco install ffmpeg
