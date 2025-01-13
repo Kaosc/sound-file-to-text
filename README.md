@@ -5,12 +5,12 @@
 ```bash
 winget install --id Python.Python.3.10
 ```
-#### 2. FFMPEG with Chocolatey
+#### 2. Install FFMPEG with Chocolatey
 
 ```bash
 choco install ffmpeg
 ```
-#### 3. Install OpenAI Whisper & FFMPEG
+#### 3. Install OpenAI Whisper
 
 ```bash
 pip install openai-whisper
